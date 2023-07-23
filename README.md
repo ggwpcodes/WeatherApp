@@ -16,20 +16,26 @@ Ability to search for weather information based on location name or coordinates
 Technologies Used
 
 Programming Language: HTML, CSS , YARN.
+
 Framework: REACT JS.
+
 API KEY:  ac2ec42ca6dcd0dc421a549b1b56048d
+
 API BASE: https://api.openweathermap.org/data/2.5/
 
 
 Installation
 
 Clone the repository: git clone https://github.com/your-username/WeatherApp.git
+
 Navigate to the project directory: cd weather-app
+
 Install the project dependencies: yarn create react-app weather-app
 
 Configuration
 
 Obtain an API key from [weathermap.org/api] by signing up on their website.
+
 Go to my API keys section and generate an API key.
 
 Usage
@@ -42,9 +48,13 @@ Contributions to this project are welcome. To contribute:
 
 
 Fork the repository.
+
 Create a new branch: git checkout -b feature/your-feature-name
+
 Make your changes and commit them: git commit -m 'Add feature'.
+
 Push to the branch: git push origin feature/your-feature-name
+
 Submit a pull request.
 
 
